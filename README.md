@@ -66,14 +66,3 @@ I am an 18-year-old developer passionate about bridging the gap between physical
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alguemaiYT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alguemaiYT&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies">
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=alguemaiYT&icon=0&color=0" alt="Profile Views">
-  </a>
-</p>
